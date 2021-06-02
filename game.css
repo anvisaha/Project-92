@@ -1,0 +1,45 @@
+body
+{
+	background: rgb(198, 255, 196);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(143, 231, 135);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+h3, label {
+    color: white;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+h2 {
+	font-family: 'Mate SC', serif;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #437ca5;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#game_body {
+	background: rgb(255, 210, 158);
+}
